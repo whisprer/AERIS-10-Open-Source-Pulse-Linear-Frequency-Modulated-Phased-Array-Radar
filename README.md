@@ -1,3 +1,34 @@
+<!-- repo-convergence:readme-header:start -->
+<!-- repo-convergence:language=FILL_ME -->
+# aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar
+
+<p align="center">
+  <a href="https://github.com/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar/releases">
+    <img src="https://img.shields.io/github/v/release/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar?color=4CAF50&label=release" alt="Release Version">
+  </a>
+  <a href="https://github.com/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-Hybrid-green.svg" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+  <a href="https://github.com/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar/actions/workflows/ci-tests.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar/ci-tests.yml?label=build" alt="Build Status">
+  </a>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-whisprer%2Faeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar-blue?logo=github&style=flat-square)](https://github.com/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar)
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar?label=commits)
+![Last Commit](https://img.shields.io/github/last-commit/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar)
+![Issues](https://img.shields.io/github/issues/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar)
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Language](https://img.shields.io/badge/language-FILL_ME-blue.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Alpha%20Release-orange?style=flat-square)](#)
+
+<p align="center">
+  <img src="/assets/aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar-banner.png" width="850" alt="aeris-10-open-source-pulse-linear-frequency-modulated-phased-array-radar Banner">
+</p>
+<!-- repo-convergence:readme-header:end -->
+
 # AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar
 
 [![Hardware: CERN-OHL-P](https://img.shields.io/badge/Hardware-CERN--OHL--P-blue.svg)](https://ohwr.org/cern_ohl_p_v2.txt)
